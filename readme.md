@@ -8,3 +8,6 @@
 
 ## About Me
 ### _To be updated_
+
+##Future plans
+### To create a modern website
