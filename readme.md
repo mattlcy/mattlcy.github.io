@@ -4,7 +4,7 @@
 
 ## Used Tags & Syntaxes
 ### 1. HTML
-#### <!DOCTYPE> <html></html> <head></head> <title></title> <body></body> 
+#### !DOCTYPE, html, head, title, body
 
 ## About Me
 ### _To be updated_
